@@ -1,2 +1,2 @@
 # Visualisasi Informasi
- Final Project Visualisasi Informasi
+ Final Project Mata Kuliah Visualisasi Informasi
